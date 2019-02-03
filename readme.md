@@ -1,15 +1,10 @@
-# Projet Laravel
+# Laravel Blog 2018
 
 ## Project
 
-Creation of a blog
+Creation of a website
 
 ## Used 
+#### Framework
+* Laravel
 
-
-#### Languages
-
-
-## Members
-#### Developement
-* Thomas BONNELYE
