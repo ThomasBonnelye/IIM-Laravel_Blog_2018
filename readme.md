@@ -1,8 +1,8 @@
-# Laravel Blog 2018
+# [IIM] Laravel Blog 2018
 
-## Project
+## Description
 
-Creation of a website
+Creating a blog using Laravel. 
 
 ## Used 
 #### Framework
